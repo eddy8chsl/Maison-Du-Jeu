@@ -1,6 +1,11 @@
 # maisonDuJeuWeb
 
+- Développement d'un site web pour une association fictive pour pouvoir consultés des jeux de sociétés et espaces à reserver, les activités organisées, ect.
+
 - Développée en PHP8
+
+![jeux](./public/images/jeux.png)
+![tarifs](./public/images/tarifs.png)
 
 # Persitance des données en base de données
 
@@ -12,7 +17,7 @@
 
 # Architecture de l'application
 
-- Architecture en MVC - Model View Controller 
+- Architecture en MVC - Model View Controller
 
 # Documentation
 
