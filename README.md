@@ -1,4 +1,4 @@
-# maisonDuJeuWeb
+# Maison Du Jeu
 
 - Développement d'un site web pour une association fictive pour pouvoir consultés des jeux de sociétés et espaces à reserver, les activités organisées, ect.
 
